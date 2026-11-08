@@ -1,4 +1,4 @@
-<h2 align="center">**Design of 4L ANPC converter**</h2>
+<h2 align="center">Design of 4L ANPC converter</h2>
 
 
 📄 [View RP Report (PDF)](RP_Report.pdf)
