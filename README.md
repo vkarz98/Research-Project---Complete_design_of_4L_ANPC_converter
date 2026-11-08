@@ -3,7 +3,7 @@
 
 📄 [View RP Report (PDF)](RP_Report.pdf)
 
-<p align="center">Designed PCB</p>
+<p align="center"><strong>Designed PCB</p>
 
 <p align="center">
   <img src="PCB_top.jpg" width="48%" />
