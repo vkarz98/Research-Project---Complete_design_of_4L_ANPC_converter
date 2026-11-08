@@ -5,6 +5,6 @@
   <img src="PCB_bottom.jpg" width="48%" />
 </p>
 
-<p align="center">">Experimental Setup</h2>
+<p align="center">Experimental Setup</h2>
   <img src="experiment.jpg" width="80%" />
 </p>
