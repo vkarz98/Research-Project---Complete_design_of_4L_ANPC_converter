@@ -17,6 +17,8 @@ Designed, simulated and experimentally validated a hybrid GaN/SiC four-level Act
 
 - **PCB Design:** Designed a compact 2-layer power electronics PCB with vertical power-loop routing, optimized component placement, reduced gate-loop and commutation-loop inductance, and high-voltage isolation.
 
+- **Current Feedback Path:** Hall-Effect Current Sensing, Signal Conditioning, Current Measurement and Feedback to the Controller
+
 - **Control Development:** Developed two-level hysteresis current control and four-level switching logic in PLECS. Implemented the switching logic in Verilog-A on a Cypress PSoC 5LP-based controller.
 
 - **Experimental Validation:** Characterized 2-level and 4-level converter operation, optimized switching deadtimes, verified ZVS transitions and evaluated converter efficiency using laboratory measurements.
@@ -27,12 +29,12 @@ Designed, simulated and experimentally validated a hybrid GaN/SiC four-level Act
 - **41.63% reduction in converter power losses** compared with two-level operation.
 - Experimentally optimized switching deadtimes to achieve smooth voltage transitions and minimize switching-related losses.
 
-## Tools & Technologies
+## Tools & Technologies highlights
 
 - **Simulation:** PLECS, MATLAB
 - **Control & Programming:** Verilog-A, Cypress PSoC 5LP, PSoC Creator
 - **PCB Design:** Altium Designer
-- **Laboratory Setup & Experimental Work:** Yokogawa WT1804E Power Analyzer, Digital Oscilloscope, Tektronix TPP1000 and TPP0850 Voltage Probes, Testec Differential Probe, Keysight 10076C Probe, Tektronix TCPA300 Current Amplifier, TCP305 Current Probe, MCR1101-5-5 Hall-Effect Sensor, DC Power Supply, Custom RL Load, Litz-Wire Inductor, PCB Soldering, Hardware Assembly and Prototype Bring-Up
+- **Laboratory Setup & Experimental Work:** Power Analyzer, Digital Oscilloscope, Voltage and current Probes, DC Power Supply, Custom RL Load, Litz-Wire Inductor, PCB Soldering, Hardware Assembly and Prototype Bring-Up
 
 <p align="center"><strong>Designed PCB</p>
 
